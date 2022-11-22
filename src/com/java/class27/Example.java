@@ -2,7 +2,7 @@ package com.java.class27;
 
 
 class Car{
-    int numOfCars;
+    static int numOfCars;
 
     Car(){
         numOfCars++;
@@ -11,11 +11,14 @@ class Car{
 }
 public class Example {
     public static void main(String[] args) {
+
+        Car toyota = new Car();
+        System.out.println(toyota.numOfCars);
         Car bmw = new Car();
         Car audi = new Car();
-        Car toyota = new Car();
 
-        System.out.println(toyota.numOfCars);
+
+
 
 
     }
