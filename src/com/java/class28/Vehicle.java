@@ -12,7 +12,7 @@ class Car extends Vehicle{
         System.out.println("From Car");
     }
 }
-class SportCar extends Vehicle{
+class SportCar extends Car{
     SportCar(){
         System.out.println("From SportCar");
     }
