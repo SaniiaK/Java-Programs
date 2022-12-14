@@ -18,6 +18,8 @@ public class StringExample {
         }
 
 
+
+
     }
     static int  getNumberOfSpaces (String str){
         int count =0;

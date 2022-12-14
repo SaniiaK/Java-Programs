@@ -12,6 +12,7 @@ public class Bank {
     }
     Bank (){
         System.out.println("This is hi from Constructor");
+        accNumber="0";
     }
 
     void withdraw(double amount){

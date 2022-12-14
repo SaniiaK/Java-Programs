@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed391e5d-7738-4755-b038-8e1357501076" name="Changes" comment="whole project is committed">
+      <change afterPath="$PROJECT_DIR$/src/com/java/Practice/DynamicPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/Practice/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class30/ExampleOfAccessModifierProtected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class31/AccessModifierExampleFromClass32Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class31/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class31/Bank1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class31/BankMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class31/ExampleOfAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class31/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class32/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class32/WrapperClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class33/RandomNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class34/AbstractClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class34/BaseIPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class34/Iphone7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class34/Iphone8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class34/TestApple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class34/TouchIDIphones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class20/StringExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class20/StringExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class26/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class26/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class26/MainClassBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class26/MainClassBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class30/BrowserMainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/java/class30/BrowserMainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class20/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/class20/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class26/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/class26/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class26/MainClassBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/class26/MainClassBank.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/String.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/java/class08/GreatestNumberOutOfThreeNumbers.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2F0lmt2WwxgVIclq22l9Md1Z8c3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Saniia/Desktop/Group Projetcs/group-project-5-Methods (2)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.java.class36.apple.iphone" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExceptionHandlingExample">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class35.Demo" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class38.ExceptionHandlingExample" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IphoneDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class36.apple.iphone.IphoneDriver" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class36.apple.iphone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class26.MainClassBank" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.class26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Practice.TestAnimal" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExceptionHandlingExample" />
+        <item itemvalue="Application.IphoneDriver" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.TestAnimal" />
+        <item itemvalue="Application.MainClassBank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed391e5d-7738-4755-b038-8e1357501076" name="Changes" comment="" />
+      <created>1663637044771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663637044771</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="whole project is committed" />
+    <option name="LAST_COMMIT_MESSAGE" value="whole project is committed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/java/class02/SecondClass.java</url>
+          <line>4</line>
+          <properties class="com.java.class02.SecondClass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/java/class04/IfElse.java</url>
+          <line>4</line>
+          <properties class="com.java.class04.IfElse" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/java/class04/OddEven.java</url>
+          <line>3</line>
+          <properties class="com.java.class04.OddEven" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/java/class04/Homework.java</url>
+          <line>3</line>
+          <properties class="com.java.class04.Homework" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/java/class05/VariableRecap.java</url>
+          <line>3</line>
+          <properties class="com.java.class05.VariableRecap" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/java/class15/PrintSumOfFiftyDivisibleByFiveAndThree.java</url>
+          <line>3</line>
+          <properties class="com.java.class15.PrintSumOfFiftyDivisibleByFiveAndThree" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/java/class31/Bank.java</url>
+          <line>8</line>
+          <properties class="com.java.class31.Bank" method="withdraw">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class04/IfExample.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class12/MethodExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class15/PrintOneToFive.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class15/SumOf1to5.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class16/PrintGreatestDigitFromGivenNumber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class15/HomeWorkPrintSumOfTheseNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class20/StringExample.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class24/HomeWork.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class28/Practice.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class34/TestApple.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/class36/FirstInterface.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="17" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
