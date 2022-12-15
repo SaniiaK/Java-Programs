@@ -1,5 +1,6 @@
 package com.java.class36.apple.iphone;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class IphoneDriver {
@@ -49,6 +50,8 @@ public class IphoneDriver {
                    break;
                default:
                    System.out.println("Please select from given options only");
+                   b =null;
+                   throw new InputMismatchException("Please enter numbers from 7,8,and 10");
            }
 
 
@@ -66,34 +69,34 @@ public class IphoneDriver {
 
            int action = userInput.nextInt();
 
-//          switch (action){
-//              case 1:
-//               //   b.getBatteryLevel();
-//                  break;
-//              case 2:
-//                  b.chargeBattery();
-//                  break;
-//              case 3:
-//                  System.out.println("Please enter your message: ");
-//                  String message = userInput.nextLine();
-//                  b.sendMessage(message);
-//                  break;
-//              case 4:
-//                  b.readMessage();
-//                  break;
-//              case 5:
-//                  b.isLocked();
-//                  break;
-//              case 6:
-//                  b.lock();
-//                  break;
-//              case 7:
-//                //  b.unlock();
-//                  break;
-//              default:
-//                  System.out.println("Please choose from above options only");
-//          }
-//
+          switch (action){
+              case 1:
+                 b.getBatteryLevel();
+                  break;
+              case 2:
+                  b.chargeBattery();
+                  break;
+              case 3:
+                  System.out.println("Please enter your message: ");
+                  String message = userInput.nextLine();
+                  b.sendMessage(message);
+                  break;
+              case 4:
+                  b.readMessage();
+                  break;
+              case 5:
+                  b.isLocked();
+                  break;
+              case 6:
+                  b.lock();
+                  break;
+              case 7:
+                //  b.unlock();
+                  break;
+              default:
+                  System.out.println("Please choose from above options only");
+          }
+
 
 
 
