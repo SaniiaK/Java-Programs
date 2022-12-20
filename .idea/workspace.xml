@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed391e5d-7738-4755-b038-8e1357501076" name="Changes" comment="whole project is committed">
-      <change afterPath="$PROJECT_DIR$/src/com/java/class38/CheckedAndUncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class38/ExampleOfThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class38/ExceptionExampleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class38/ExceptionMultiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class38/ExceptionPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class38/Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class40/CheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class40/ExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class40/ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class40/UncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class41/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class41/BoxString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class41/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class41/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class42/SetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class36/apple/iphone/IphoneDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/class36/apple/iphone/IphoneDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/class38/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/class38/ExceptionHandlingExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +64,7 @@
       <recent name="com.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckedException">
+  <component name="RunManager" selected="Application.SetExample">
     <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.class40.CheckedException" />
       <module name="JavaPrograms" />
@@ -98,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class40.ExceptionHandling" />
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class41.ListExample" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class40.*" />
+          <option name="PATTERN" value="com.java.class41.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IphoneDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class36.apple.iphone.IphoneDriver" />
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class42.SetExample" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class36.apple.iphone.*" />
+          <option name="PATTERN" value="com.java.class42.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.ListExample" />
         <item itemvalue="Application.CheckedException" />
         <item itemvalue="Application.UncheckedException" />
         <item itemvalue="Application.ExceptionExample" />
-        <item itemvalue="Application.ExceptionHandling" />
-        <item itemvalue="Application.IphoneDriver" />
       </list>
     </recent_temporary>
   </component>
