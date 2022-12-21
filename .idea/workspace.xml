@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed391e5d-7738-4755-b038-8e1357501076" name="Changes" comment="whole project is committed">
-      <change afterPath="$PROJECT_DIR$/src/com/java/class41/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class41/BoxString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class41/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class41/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/class42/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class42/IteratorExampel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class42/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/class43/FrequencyOfNames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class41/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/class41/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/class42/SetPracticeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/class42/SetPracticeExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +64,13 @@
       <recent name="com.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetExample">
-    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class40.CheckedException" />
+  <component name="RunManager" selected="Application.FrequencyOfNames">
+    <configuration name="FrequencyOfNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class43.FrequencyOfNames" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class40.*" />
+          <option name="PATTERN" value="com.java.class43.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class40.ExceptionExample" />
+    <configuration name="IteratorExampel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class42.IteratorExampel" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class40.*" />
+          <option name="PATTERN" value="com.java.class42.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class42.SetExample" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class42.MapExample" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UncheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.class40.UncheckedException" />
+    <configuration name="SetPracticeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.class42.SetPracticeExample" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.class40.*" />
+          <option name="PATTERN" value="com.java.class42.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.FrequencyOfNames" />
+        <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.CheckedException" />
-        <item itemvalue="Application.UncheckedException" />
-        <item itemvalue="Application.ExceptionExample" />
+        <item itemvalue="Application.IteratorExampel" />
+        <item itemvalue="Application.SetPracticeExample" />
       </list>
     </recent_temporary>
   </component>

@@ -22,23 +22,23 @@ public class ListExample {
 //        for (int data : listOfData){
 //            System.out.println(listOfData);
 //        }
-//        int min = listOfData.get(0);
-//        int minIndex = 0;
-//        for (int i =0; i<listOfData.size(); i++){
-//            min =listOfData.get(i);
-//            for (int j=i; j<listOfData.size();j++){
-//                 min =listOfData.get(j);
-//                if (listOfData.get(j)<min){
-//                    min = listOfData.get(j);
-//                    minIndex = j;
-//
-//                }
-//            }
-//            int temp = listOfData.get(i);
-//            listOfData.set(i,min);
-//            listOfData.set(minIndex,temp);
-//        }
-//        System.out.println(listOfData);
+        int min = 0;
+        int minIndex = 0;
+        for (int i =0; i<listOfData.size(); i++){
+            //min =listOfData.get(i);
+            for (int j=i; j<listOfData.size();j++){
+                 min =listOfData.get(j);
+                if (listOfData.get(j)<min){
+                    min = listOfData.get(j);
+                    minIndex = j;
+
+                }
+            }
+            int temp = listOfData.get(i);
+            listOfData.set(i,min);
+            listOfData.set(minIndex,temp);
+        }
+        System.out.println(listOfData);
 
 
 
