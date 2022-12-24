@@ -22,6 +22,17 @@ public class FrequencyOfNames {
              }else{
                  frequency.put(name, 1); // we go to else part if we don't have name
              }
-         }System.out.print(frequency);
+         }System.out.println(frequency);
+
+         Map <String, Integer> greateastNum = new HashMap<>();
+
+         int max = frequency.get(0);
+
+//         for (int num : greateastNum.values()){
+//             if (greateastNum.values(num)>max){
+//                 max = frequency.values();
+//             }
+
+        // }
     }
 }
